@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\Samsung\\Dropbox\\Programação\\C#\\Projetos\\Seção 3 - Recapitulação de Lógica de programação usando C#\\ConversaoImplicitaECasting\\ConversaoImplicitaECasting.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\Seção 3 - Recapitulação de Lógica de programação usando C#\ConversaoImplicitaECasting\bin\Debug\netcoreapp2.2\ConversaoImplicitaECasting.deps.json
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\Seção 3 - Recapitulação de Lógica de programação usando C#\ConversaoImplicitaECasting\bin\Debug\netcoreapp2.2\ConversaoImplicitaECasting.runtimeconfig.json
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\Seção 3 - Recapitulação de Lógica de programação usando C#\ConversaoImplicitaECasting\bin\Debug\netcoreapp2.2\ConversaoImplicitaECasting.runtimeconfig.dev.json
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\Seção 3 - Recapitulação de Lógica de programação usando C#\ConversaoImplicitaECasting\bin\Debug\netcoreapp2.2\ConversaoImplicitaECasting.dll
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\Seção 3 - Recapitulação de Lógica de programação usando C#\ConversaoImplicitaECasting\bin\Debug\netcoreapp2.2\ConversaoImplicitaECasting.pdb
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\Seção 3 - Recapitulação de Lógica de programação usando C#\ConversaoImplicitaECasting\obj\Debug\netcoreapp2.2\ConversaoImplicitaECasting.csprojAssemblyReference.cache
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\Seção 3 - Recapitulação de Lógica de programação usando C#\ConversaoImplicitaECasting\obj\Debug\netcoreapp2.2\ConversaoImplicitaECasting.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\Seção 3 - Recapitulação de Lógica de programação usando C#\ConversaoImplicitaECasting\obj\Debug\netcoreapp2.2\ConversaoImplicitaECasting.AssemblyInfoInputs.cache
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\Seção 3 - Recapitulação de Lógica de programação usando C#\ConversaoImplicitaECasting\obj\Debug\netcoreapp2.2\ConversaoImplicitaECasting.AssemblyInfo.cs
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\Seção 3 - Recapitulação de Lógica de programação usando C#\ConversaoImplicitaECasting\obj\Debug\netcoreapp2.2\ConversaoImplicitaECasting.dll
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\Seção 3 - Recapitulação de Lógica de programação usando C#\ConversaoImplicitaECasting\obj\Debug\netcoreapp2.2\ConversaoImplicitaECasting.pdb

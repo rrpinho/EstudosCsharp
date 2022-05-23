@@ -1,0 +1,11 @@
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\Variaveis\bin\Debug\netcoreapp2.2\Variaveis.deps.json
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\Variaveis\bin\Debug\netcoreapp2.2\Variaveis.runtimeconfig.json
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\Variaveis\bin\Debug\netcoreapp2.2\Variaveis.runtimeconfig.dev.json
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\Variaveis\bin\Debug\netcoreapp2.2\Variaveis.dll
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\Variaveis\bin\Debug\netcoreapp2.2\Variaveis.pdb
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\Variaveis\obj\Debug\netcoreapp2.2\Variaveis.csprojAssemblyReference.cache
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\Variaveis\obj\Debug\netcoreapp2.2\Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\Variaveis\obj\Debug\netcoreapp2.2\Variaveis.AssemblyInfoInputs.cache
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\Variaveis\obj\Debug\netcoreapp2.2\Variaveis.AssemblyInfo.cs
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\Variaveis\obj\Debug\netcoreapp2.2\Variaveis.dll
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\Variaveis\obj\Debug\netcoreapp2.2\Variaveis.pdb

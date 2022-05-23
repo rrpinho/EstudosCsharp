@@ -1,0 +1,11 @@
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\Seção 3 - Recapitulação de Lógica de programação usando C#\OperadoresDeAtribuicao\bin\Debug\netcoreapp2.2\OperadoresDeAtribuicao.deps.json
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\Seção 3 - Recapitulação de Lógica de programação usando C#\OperadoresDeAtribuicao\bin\Debug\netcoreapp2.2\OperadoresDeAtribuicao.runtimeconfig.json
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\Seção 3 - Recapitulação de Lógica de programação usando C#\OperadoresDeAtribuicao\bin\Debug\netcoreapp2.2\OperadoresDeAtribuicao.runtimeconfig.dev.json
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\Seção 3 - Recapitulação de Lógica de programação usando C#\OperadoresDeAtribuicao\bin\Debug\netcoreapp2.2\OperadoresDeAtribuicao.dll
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\Seção 3 - Recapitulação de Lógica de programação usando C#\OperadoresDeAtribuicao\bin\Debug\netcoreapp2.2\OperadoresDeAtribuicao.pdb
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\Seção 3 - Recapitulação de Lógica de programação usando C#\OperadoresDeAtribuicao\obj\Debug\netcoreapp2.2\OperadoresDeAtribuicao.csprojAssemblyReference.cache
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\Seção 3 - Recapitulação de Lógica de programação usando C#\OperadoresDeAtribuicao\obj\Debug\netcoreapp2.2\OperadoresDeAtribuicao.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\Seção 3 - Recapitulação de Lógica de programação usando C#\OperadoresDeAtribuicao\obj\Debug\netcoreapp2.2\OperadoresDeAtribuicao.AssemblyInfoInputs.cache
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\Seção 3 - Recapitulação de Lógica de programação usando C#\OperadoresDeAtribuicao\obj\Debug\netcoreapp2.2\OperadoresDeAtribuicao.AssemblyInfo.cs
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\Seção 3 - Recapitulação de Lógica de programação usando C#\OperadoresDeAtribuicao\obj\Debug\netcoreapp2.2\OperadoresDeAtribuicao.dll
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\Seção 3 - Recapitulação de Lógica de programação usando C#\OperadoresDeAtribuicao\obj\Debug\netcoreapp2.2\OperadoresDeAtribuicao.pdb

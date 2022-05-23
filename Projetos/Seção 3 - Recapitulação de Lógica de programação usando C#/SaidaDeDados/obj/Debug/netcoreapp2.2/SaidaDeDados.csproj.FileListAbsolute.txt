@@ -1,0 +1,11 @@
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\SaidaDeDados\bin\Debug\netcoreapp2.2\SaidaDeDados.deps.json
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\SaidaDeDados\bin\Debug\netcoreapp2.2\SaidaDeDados.runtimeconfig.json
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\SaidaDeDados\bin\Debug\netcoreapp2.2\SaidaDeDados.runtimeconfig.dev.json
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\SaidaDeDados\bin\Debug\netcoreapp2.2\SaidaDeDados.dll
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\SaidaDeDados\bin\Debug\netcoreapp2.2\SaidaDeDados.pdb
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\SaidaDeDados\obj\Debug\netcoreapp2.2\SaidaDeDados.csprojAssemblyReference.cache
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\SaidaDeDados\obj\Debug\netcoreapp2.2\SaidaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\SaidaDeDados\obj\Debug\netcoreapp2.2\SaidaDeDados.AssemblyInfoInputs.cache
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\SaidaDeDados\obj\Debug\netcoreapp2.2\SaidaDeDados.AssemblyInfo.cs
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\SaidaDeDados\obj\Debug\netcoreapp2.2\SaidaDeDados.dll
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\SaidaDeDados\obj\Debug\netcoreapp2.2\SaidaDeDados.pdb

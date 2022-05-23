@@ -1,0 +1,5 @@
+No Prompt de Comando usar:
+> dotnet new console -o "NomeDaPasta"
+> cd "NomeDaPasta"
+> dotnet run
+

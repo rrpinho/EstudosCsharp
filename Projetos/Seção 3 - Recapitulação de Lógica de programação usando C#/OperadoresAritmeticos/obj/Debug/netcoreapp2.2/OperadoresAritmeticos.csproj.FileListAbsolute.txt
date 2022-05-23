@@ -1,0 +1,22 @@
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\OperadoresAritmeticos\bin\Debug\netcoreapp2.2\OperadoresAritmeticos.deps.json
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\OperadoresAritmeticos\bin\Debug\netcoreapp2.2\OperadoresAritmeticos.runtimeconfig.json
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\OperadoresAritmeticos\bin\Debug\netcoreapp2.2\OperadoresAritmeticos.runtimeconfig.dev.json
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\OperadoresAritmeticos\bin\Debug\netcoreapp2.2\OperadoresAritmeticos.dll
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\OperadoresAritmeticos\bin\Debug\netcoreapp2.2\OperadoresAritmeticos.pdb
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\OperadoresAritmeticos\obj\Debug\netcoreapp2.2\OperadoresAritmeticos.csprojAssemblyReference.cache
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\OperadoresAritmeticos\obj\Debug\netcoreapp2.2\OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\OperadoresAritmeticos\obj\Debug\netcoreapp2.2\OperadoresAritmeticos.AssemblyInfoInputs.cache
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\OperadoresAritmeticos\obj\Debug\netcoreapp2.2\OperadoresAritmeticos.AssemblyInfo.cs
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\OperadoresAritmeticos\obj\Debug\netcoreapp2.2\OperadoresAritmeticos.dll
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\OperadoresAritmeticos\obj\Debug\netcoreapp2.2\OperadoresAritmeticos.pdb
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\Seção 3 - Recapitulação de Lógica de programação usando C#\OperadoresAritmeticos\bin\Debug\netcoreapp2.2\OperadoresAritmeticos.deps.json
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\Seção 3 - Recapitulação de Lógica de programação usando C#\OperadoresAritmeticos\bin\Debug\netcoreapp2.2\OperadoresAritmeticos.runtimeconfig.json
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\Seção 3 - Recapitulação de Lógica de programação usando C#\OperadoresAritmeticos\bin\Debug\netcoreapp2.2\OperadoresAritmeticos.runtimeconfig.dev.json
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\Seção 3 - Recapitulação de Lógica de programação usando C#\OperadoresAritmeticos\bin\Debug\netcoreapp2.2\OperadoresAritmeticos.dll
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\Seção 3 - Recapitulação de Lógica de programação usando C#\OperadoresAritmeticos\bin\Debug\netcoreapp2.2\OperadoresAritmeticos.pdb
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\Seção 3 - Recapitulação de Lógica de programação usando C#\OperadoresAritmeticos\obj\Debug\netcoreapp2.2\OperadoresAritmeticos.csprojAssemblyReference.cache
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\Seção 3 - Recapitulação de Lógica de programação usando C#\OperadoresAritmeticos\obj\Debug\netcoreapp2.2\OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\Seção 3 - Recapitulação de Lógica de programação usando C#\OperadoresAritmeticos\obj\Debug\netcoreapp2.2\OperadoresAritmeticos.AssemblyInfoInputs.cache
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\Seção 3 - Recapitulação de Lógica de programação usando C#\OperadoresAritmeticos\obj\Debug\netcoreapp2.2\OperadoresAritmeticos.AssemblyInfo.cs
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\Seção 3 - Recapitulação de Lógica de programação usando C#\OperadoresAritmeticos\obj\Debug\netcoreapp2.2\OperadoresAritmeticos.dll
+C:\Users\Samsung\Dropbox\Programação\C#\Projetos\Seção 3 - Recapitulação de Lógica de programação usando C#\OperadoresAritmeticos\obj\Debug\netcoreapp2.2\OperadoresAritmeticos.pdb
